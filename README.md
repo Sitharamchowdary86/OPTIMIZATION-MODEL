@@ -67,4 +67,4 @@ Maximum profit
 
 Bar chart of optimal production mix
 
-📊 Visualization:C:\Users\Sitharam Chowdary\OneDrive\Pictures
+📊 Visualization:"C:\Users\Sitharam Chowdary\OneDrive\Pictures"
